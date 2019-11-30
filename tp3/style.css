@@ -1,0 +1,18 @@
+.entete{
+
+	background-color: black;
+	color: white;
+}
+
+.corps{
+
+	background-color: white;
+	color: black;
+}
+
+a:link{
+
+	color: blue;
+	font-weight: bold;
+	text-decoration: none;
+}

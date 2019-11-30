@@ -1,0 +1,24 @@
+input {
+  width: 50%; /*longueur de la zone par rapport bord du navigateur*/
+  padding: 12px 20px; /*marge par rapport au texte*/
+  margin: 8px ; /*marge entre les # box=zone du texte*/
+  border: 1px solid #ccc; /* les bordures de la zone de texte*/
+  border-radius: 12px; /*la forme des # coins de la zone de texte*/
+  box-sizing: border-box;; /*assure la bonne hauteur et lareur saisies en ajoutant le padding*/
+  display: block; /*comment placer l'objet*/
+}
+table,td{
+    border: 1px solid black;
+    border-collapse: collapse; /*fusionner les doubles bordures en une*/
+    width: 50%;
+    box-sizing: border-box;
+    text-align: center;
+    
+
+}
+td,th {
+  padding: 10px;
+  width: 80%;
+  
+
+}
