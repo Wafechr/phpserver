@@ -12,5 +12,6 @@
     echo date('h F h:i:s',$d).'<br/>';}
 fclose($f)
 ?>
+  <a href='whats lalala'> hhh </a>
 </body>
 </html>
